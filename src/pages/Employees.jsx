@@ -82,7 +82,7 @@ const Employees = () => {
                 ) : (
                     <div className="flex flex-col items-center justify-center text-center">
                         <img
-                            src="/public/NO-Employee.webp"
+                            src="/NO-Employee.webp"
                             alt="No Employee"
                             className="w-60 h-auto mb-6 opacity-90"
                         />
